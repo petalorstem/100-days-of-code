@@ -14,13 +14,13 @@
 
 **Today's Progress**: Finished the final project for the "Responsive Web Design" Certification. I learned the simplest technique to center align horizontally and vertically  Using the following:
 
-     ```display: flex;        
+        display: flex;        
         justify-content: center;        
-        align-items: center;```
+        align-items: center;
         
 I also learned about,
 
-     ```scroll-padding-top: 100px;```
+```scroll-padding-top: 100px;```
      
 so I can avoid the headings from being cut off when I click on a link that takes me to a particular section in the page.
 
