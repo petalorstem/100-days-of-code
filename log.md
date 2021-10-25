@@ -20,7 +20,7 @@
         
 I also learned about,
 
-```scroll-padding-top: 100px;```
+        scroll-padding-top: 100px;
      
 so I can avoid the headings from being cut off when I click on a link that takes me to a particular section in the page.
 
