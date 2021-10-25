@@ -9,17 +9,28 @@
 
 **Link to work:** [Technical Documentation](https://codepen.io/caffeineproof/pen/abyvXvO)
 
-<!--### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 1: October 25, 2021
+#####
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: Finished the final project for the "Responsive Web Design" Certification. I learned the simplest technique to center align horizontally and vertically  Using the following:
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+     ```display: flex;        
+        justify-content: center;        
+        align-items: center;```
+        
+I also learned about,
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+     ```scroll-padding-top: 100px;```
+     
+so I can avoid the headings from being cut off when I click on a link that takes me to a particular section in the page.
+
+**Thoughts**: It took me really~ long to obtain this certification but I finally did and it really feels so good ! Finally, I'll be starting with JavaScript tomorrow ! I'm going to reward myself with an episode of "Blue Period" and then continue studying for my exam.
 
 
-### Day 1: June 27, Monday
+**Link(s) to work**: [Personal Portfolio Webpage](https://codepen.io/caffeineproof/pen/MWvJVxx?editors=1100)
+
+
+<!--### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
 
