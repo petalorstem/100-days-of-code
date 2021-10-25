@@ -27,7 +27,7 @@ so I can avoid the headings from being cut off when I click on a link that takes
 **Thoughts**: It took me really~ long to obtain this certification but I finally did it and it feels really good ! Finally, I'll be starting with JavaScript tomorrow ! I'm going to reward myself with an episode of "Blue Period" and then continue studying for my exam.
 
 
-**Link(s) to work**: [Personal Portfolio Webpage](https://codepen.io/caffeineproof/pen/MWvJVxx?editors=1100)
+**Link to work**: [Personal Portfolio Webpage](https://codepen.io/caffeineproof/pen/MWvJVxx?editors=1100)
 
 
 <!--### Day 1: June 27, Monday
