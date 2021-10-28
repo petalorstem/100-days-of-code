@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-+ ### Day 0: October 24, 2021
+### Day 0: October 24, 2021
 #####
 
 **Today's Progress**: Finished building the "Technical Document" project for the freecodecamp "Responsive Web Design" certification. Also, started working on the "Portfolio' project. I managed to fulfill all the user stories and now all I have to do is design the page well so it's presentable.
@@ -10,7 +10,7 @@
 **Link to work:** [Technical Documentation](https://codepen.io/caffeineproof/pen/abyvXvO)
 
 
-+ ### Day 1: October 25, 2021
+### Day 1: October 25, 2021
 #####
 
 **Today's Progress**: Finished the final project for the "Responsive Web Design" Certification. I learned the simplest technique to center align horizontally and vertically  Using the following:
@@ -30,7 +30,7 @@ so I can avoid the headings from being cut off when I click on a link that takes
 **Link to work**: [Personal Portfolio Webpage](https://codepen.io/caffeineproof/pen/MWvJVxx?editors=1100)
 
 
-+ ### Day 2: October 28, 2021
+### Day 2: October 28, 2021
 #####
 
 **Today's Progress**: 14% progress on Basic JavaScript under JavaScript Algorithms and Data Structures Certification.
