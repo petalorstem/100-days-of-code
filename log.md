@@ -9,6 +9,7 @@
 
 **Link to work:** [Technical Documentation](https://codepen.io/caffeineproof/pen/abyvXvO)
 
+
 ### Day 1: October 25, 2021
 #####
 
@@ -26,8 +27,14 @@ so I can avoid the headings from being cut off when I click on a link that takes
 
 **Thoughts**: It took me really~ long to obtain this certification but I finally did it and it feels really good ! Finally, I'll be starting with JavaScript tomorrow ! I'm going to reward myself with an episode of "Blue Period" and then continue studying for my exam.
 
-
 **Link to work**: [Personal Portfolio Webpage](https://codepen.io/caffeineproof/pen/MWvJVxx?editors=1100)
+
+
+### Day 2: October 28, 2021
+#####
+
+**Today's Progress**: 14% progress on Basic JavaScript under JavaScript Algorithms and Data Structures Certification.
+**Thoughts:** I am a CS graduate and I know some basics but I'm making notes of everything so my progress is slow. I love learning this way rather than at college. We just skimmed thourgh JavaScript without proper order and just for the sake of completing the syllabus. Though for the project I managed to make a Pomodoro Timer with the crumbs of JavaScript I understood and with help of YouTube tutorials. At the end of this I really want to be able to make one on my own along with other projects.
 
 
 <!--### Day 1: June 27, Monday
