@@ -38,12 +38,22 @@ so I can avoid the headings from being cut off when I click on a link that takes
 **Thoughts:** I am a CS graduate and I know some basics but I'm making notes of everything so my progress is slow. I love learning this way rather than at college. We just skimmed thourgh JavaScript without proper order and just for the sake of completing the syllabus. Though for the project I managed to make a Pomodoro Timer with the crumbs of JavaScript I understood and with help of YouTube tutorials. At the end of this I really want to be able to make one on my own along with other projects.
 
 
+
 ### Day 3: October 31, 2021
 #####
 
 **Today's Progress**: 22% progress on Basic JavaScript under JavaScript Algorithms and Data Structures Certification.
 
 **Thoughts:** For a few days I'm going to focus on showing up rather than how much I manage to complete since i'm dealing with a lot of inconsistencies. I really need to do something about it. It's best to take small steps at a time.
+
+
+### Day 4: November 1, 2021
+#####
+
+**Today's Progress**: 34% progress on Basic JavaScript under JavaScript Algorithms and Data Structures Certification. Learned all about concatenatig strings and accessing letters at various positons in the string and how to find the length of the string. Also learnt that a particular letter in the string cannot be altered but you can assign a whole new string to a variable.
+
+**Thoughts:** It was fun! Today I did feel like showing up and it felt nice. The real test is when I don't feel like showing up.
+
 
 <!--### Day 1: June 27, Monday
 
