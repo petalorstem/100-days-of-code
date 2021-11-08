@@ -58,7 +58,7 @@ so I can avoid the headings from being cut off when I click on a link that takes
 ### Day 0: November 8, 2021
 #####
 
-**Today's Progress**: Completed 45% of Basic Javascript on freecodecamps "javaScript Algorithms and Data Structure" Certification. I learnt about arrays, multidimentional arrays and how to access and modify them, push(), pop(), shift(), unshift(), how to write a function, how to call a function, how to pass arguments into a funtion and how to return a value from a function.
+**Today's Progress**: Completed 45% of Basic Javascript on freecodecamps "JavaScript Algorithms and Data Structure" Certification. I learnt about arrays, multidimentional arrays and how to access and modify them, push(), pop(), shift(), unshift(), how to write a function, how to call a function, how to pass arguments into a funtion and how to return a value from a function.
 
 **Thoughts:** I've lost the count for how many times I'm restarting the 100 days of code challenge but I'm not going to give up till I get consistent. We fall, we get up ! Today's learning session was great. I always wanted to learn JavaScript and it feels nice to finally learn it.
 
