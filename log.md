@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 0: October 24, 2021
+<!--### Day 0: October 24, 2021
 #####
 
 **Today's Progress**: Finished building the "Technical Document" project for the freecodecamp "Responsive Web Design" certification. Also, started working on the "Portfolio' project. I managed to fulfill all the user stories and now all I have to do is design the page well so it's presentable.
@@ -52,7 +52,15 @@ so I can avoid the headings from being cut off when I click on a link that takes
 
 **Today's Progress**: 34% progress on Basic JavaScript under JavaScript Algorithms and Data Structures Certification. Learned all about concatenatig strings and accessing letters at various positons in the string and how to find the length of the string. Also learnt that a particular letter in the string cannot be altered but you can assign a whole new string to a variable.
 
-**Thoughts:** It was fun! Today I did feel like showing up and it felt nice. The real test is when I don't feel like showing up.
+**Thoughts:** It was fun! Today I did feel like showing up and it felt nice. The real test is when I don't feel like showing up.-->
+
+
+### Day 0: November 8, 2021
+#####
+
+**Today's Progress**: Completed 45% of Basic Javascript on freecodecamps "javaScript Algorithms and Data Structure" Certification. I learnt about arrays, multidimentional arrays and how to access and modify them, push(), pop(), shift(), unshift(), how to write a function, how to call a function, how to pass arguments into a funtion and how to return a value from a function.
+
+**Thoughts:** I've lost the count for how many times I'm restarting the 100 days of code challenge but I'm not going to give up till I get consistent. We fall, we get up ! Today's learning session was great. I always wanted to learn JavaScript and it feels nice to finally learn it.
 
 
 <!--### Day 1: June 27, Monday
