@@ -63,7 +63,7 @@ so I can avoid the headings from being cut off when I click on a link that takes
 **Thoughts:** I've lost the count for how many times I'm restarting the 100 days of code challenge but I'm not going to give up till I get consistent. We fall, we get up ! Today's learning session was great. I always wanted to learn JavaScript and it feels nice to finally learn it.
 
 
-### Day 1: October 25, 2021
+### Day 1: November 9, 2021
 #####
 
 **Today's Progress**: Completed 45% of Basic Javascript on freecodecamps "JavaScript Algorithms and Data Structure" Certification. I learnt about Scope (Local and Global), undefined return value, assignment with a returned value, simple queue implementation, understanding the boolean data type and using the 'if' statement. 
