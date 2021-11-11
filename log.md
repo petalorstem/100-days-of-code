@@ -70,6 +70,14 @@ so I can avoid the headings from being cut off when I click on a link that takes
 
 **Thoughts**: I showed up today, Yaayy! I can totally do this!
 
+
+### Day 2: November 11, 2021
+#####
+
+**Today's Progress**: Completed 63% of Basic Javascript on freecodecamps "JavaScript Algorithms and Data Structure" Certification. I learnt about arithmetic operators (==, ===,!=, !==, >, >=, <, <=), logical operators (&&, ||), else statement.
+
+**Thoughts**: Couldn't show up yesterday due to some personal reasons but I'll try to show up everyday starting today. Today was easy but fun.
+
 <!--### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
