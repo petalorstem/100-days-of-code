@@ -84,7 +84,7 @@ so I can avoid the headings from being cut off when I click on a link that takes
 
 **Today's Progress**: Completed 70% of Basic Javascript on freecodecamps "JavaScript Algorithms and Data Structure" Certification. I learnt about else if statement, the order in if else statements, the if-else chain, the switch statement, the default case in switch statement, how to handle multiple identical options with switch statement.
 
-**Thoughts**: About showing up daily, i guess i spoke *cough chough* too soon. It was still fun. I'm literally revising my basics of coding which is essential for what I want to create after my exams.
+**Thoughts**: About showing up daily, i guess i spoke,, *cough chough* too soon. It was still fun. I'm literally revising my basics of coding which is essential for what I want to create after my exams.
 
 <!--### Day 1: June 27, Monday
 
