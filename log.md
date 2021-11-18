@@ -86,6 +86,14 @@ so I can avoid the headings from being cut off when I click on a link that takes
 
 **Thoughts**: About showing up daily, i guess i spoke,, *cough chough* too soon. It was still fun. I'm literally revising my basics of coding which is essential for what I want to create after my exam.
 
+
+### Day 4: November 18, 2021
+#####
+
+**Today's Progress**: Completed 77% of Basic Javascript on freecodecamps "JavaScript Algorithms and Data Structure" Certification. I learnt about returning boolean values from the function, how the control is passed to the part from where the function was called when a return statement is executed within the function, building javascript obejcts, accessing the oject properties with either dot or bracket notation, accessing the object properties with variables and updating the object properties. 
+
+**Thoughts**: I do not know about every single day but I'm surely showing up every other day or after every 2 days consistently. Need to up my game, there's lots to learn to be able to get to a certain level so I can build stuff.
+
 <!--### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
