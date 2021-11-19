@@ -94,6 +94,14 @@ so I can avoid the headings from being cut off when I click on a link that takes
 
 **Thoughts**: I do not know about every single day but I'm surely showing up every other day or after every 2 days consistently. Need to up my game, there's lots to learn to be able to get to a certain level so I can build stuff.
 
+
+### Day 5: November 19, 2021
+#####
+
+**Today's Progress**: Completed 83% of Basic Javascript on freecodecamps "JavaScript Algorithms and Data Structure" Certification. I learnt about adding new properties to a JS object, deleting a property from a JS object, using objects for lookup, testing if objects have a certain property using the object function hasOwnProperty(propertyName), working with complex objects, accessing data in nested objects and nested arrays. 
+
+**Thoughts**: I was about to skip today but I forced myself to do it and few minutes after I started I enjoyed learning.
+
 <!--### Day 1: June 27, Monday
 
 **Today's Progress**: I've gone through many exercises on FreeCodeCamp.
